@@ -111,7 +111,7 @@ These findings provide valuable insights for Walmart's sales forecasting and str
 3. Economic Factor Analysis: Monitor economic indicators (CPI, Unemployment Index) to adjust pricing and promotional strategies.
 These recommendations can help Walmart improve sales forecasting, inventory management, and marketing strategies.
 
-### Limitationa
+### Limitations
 
 1. Historical Data: The analysis relies on historical sales data, which may not fully capture future trends or unexpected events.
 2. Store Variations: While the analysis accounts for store-specific variations, the findings may not be directly applicable to new or differently located stores.
