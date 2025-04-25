@@ -1,7 +1,7 @@
 # Walmart-Sales-Analysis
 
 ### Project Overview
-This project aims to develop a sales forecasting model to accurately predict Walmart's sales and demand. The model considers factors like holidays, economic conditions, and promotional markdowns, using historical sales data from 45 stores. Holiday weeks are weighted five times higher than non-holiday weeks in the evaluation.
+This project aims to develop a sales forecasting model to accurately predict Walmart's sales and demand. The model considers factors like holidays, economic conditions, and promotional markdowns, using historical sales data from 45 stores.
 
 ### Data Sources
 The analysis is based on a “Walmart.csv dataset” containing hisstoric sales  data for 45 Walmart stores.
